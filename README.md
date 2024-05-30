@@ -53,3 +53,5 @@ Classe responsável pela interface do usuário e pela lógica de seleção e exe
 1. Clone o repositório do projeto:
    ```sh
    https://github.com/COMPONENTE-DE-GEOLOCALIZACAO/app.git
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
