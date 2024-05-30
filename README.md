@@ -52,4 +52,4 @@ Classe responsável pela interface do usuário e pela lógica de seleção e exe
 
 1. Clone o repositório do projeto:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/COMPONENTE-DE-GEOLOCALIZACAO/app.git
